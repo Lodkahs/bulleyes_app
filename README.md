@@ -9,4 +9,3 @@ I have a few milestones to add functionality into the app
 4. field with round number on the game screen 
 5. field with player's total score
 
-tetst
