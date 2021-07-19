@@ -1,6 +1,6 @@
 # bulleyes_app
 my first swift app
-/n
+\n
 
 Thanks to the https://www.raywenderlich.com/ I built my first Swift app named Bullseye, a mobile game with low functionality (for now) /n
 I have a few milestones to add functionality into the app /n
