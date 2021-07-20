@@ -1,6 +1,8 @@
 # bulleyes_app
 my first swift app
 
+https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=6%3A107
+
 Thanks to the https://www.raywenderlich.com/ 🎉 I built my first Swift app named Bullseye, a mobile game with low functionality (for now) <br>
 I have a few milestones to add functionality into the app 
 1. button to open a game menu with leaderboard and main menu ❌
